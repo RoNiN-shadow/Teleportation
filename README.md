@@ -29,5 +29,4 @@ After defeating the [b]Moon Lord[/b], the Teleport Tracker becomes available for
 [*]Future updates may expand multiplayer syncing and customization.
 [/list]
 
-
-GitHub of the Mod: [url=https://github.com/RoNiN-shadow/Teleportation]here[/url]
+Download on SteamWorkShop:
