@@ -1,0 +1,5 @@
+Teleport Tracker – 10-Slot Teleportation
+
+Create up to 10 personal checkpoints for instant travel! After defeating the Moon Lord, purchase from the Mechanic NPC.  
+
+Hotkeys: K + Number to save, F + Number to teleport. Coordinates are saved per player.

@@ -1,0 +1,6 @@
+Items: {
+	TeleportTracker: {
+		DisplayName: Teleport Tracker
+		Tooltip: ""
+	}
+}
