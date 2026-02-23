@@ -27,4 +27,4 @@ After defeating the **Moon Lord**, the Teleport Tracker becomes available for pu
 - Checkpoint data is currently saved per player  
 - Future updates may expand multiplayer syncing and customization  
 
-Download on SteamWorkShop: 
+Download on SteamWorkShop: [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3671344101)
